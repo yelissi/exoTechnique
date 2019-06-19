@@ -1,0 +1,31 @@
+html,
+body {
+    background-color: #e0e0e0;
+    color: #000;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: "DejaVu Sans Mono", "Liberation Mono", Monaco, Menlo, Inconsolata, "Andale Mono", monospace;
+    font-size: 75.01%;
+    line-height: 1.5;
+    padding: 1em 2em;
+}
+
+button{
+    background:rgba(139, 61, 61,0.75);
+    color:#fff;
+    border:none;
+    position:relative;
+    height:60px;
+    font-size:1.6em;
+    padding:0.5em;
+    cursor:pointer;
+    transition:800ms ease all;
+    outline:none;
+  }
+  
+p {
+    text-shadow: #ccc 1px 1px 1px;
+}
